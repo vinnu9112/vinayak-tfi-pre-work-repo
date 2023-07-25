@@ -1,5 +1,5 @@
 # vinayak-tfi-pre-work-repo
-After importing this repo, do ###`npm run dev` in root terminal in order to run the app
+After importing this repo, do `npm run dev` in root terminal in order to run the app
 
 ### The HomePage would appear something like this
 
