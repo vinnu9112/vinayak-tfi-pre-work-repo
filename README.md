@@ -39,3 +39,5 @@ After importing this repo, do `npm run dev` in root terminal in order to run the
 
 
 ![table1](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/72e09a5f-2c57-4fc3-809f-a99b7ccefbe6)
+
+### A normal user wont have the option of the volunteer list in the nav bar only admin will be able to see and access it otherwise it would only appear as Dashboard
