@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+
+  background-color: #fdfbf9;
+}
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 65vh;
+  flex-direction: column;
+}
+.reset{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 65vh;
+  flex-direction: column;
+}
+
+.login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 65vh;
+  flex-direction: column;
+}
+
+.form-control{
+  width: 100%;
+}
+
+#exampleInputAvailability1,
+#exampleInputAnswer1,
+#exampleInputLanguages1{
+  width: 170%;
+}
+
+.table-container {
+  max-height: 70vh;
+  overflow-y: auto;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+}
