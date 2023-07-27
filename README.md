@@ -21,7 +21,8 @@ After importing this repo, do `npm run dev` in root terminal in order to run the
 
 ### Once the user has resgistered they can login to check their enrollment details
 
-![user-login](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/7b57ba13-3b70-4be6-8ec6-7dff97c61762)
+![user-details](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/9bcd617a-3c4c-48ac-a925-feb3d6155bb7)
+
 
 
 ### And Finally the admin can see the Volunteers list in order to allocate them to their respective classes
@@ -29,13 +30,11 @@ After importing this repo, do `npm run dev` in root terminal in order to run the
 ![admin-login](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/65d9d106-44bc-4f75-b7dd-7446c9384dd8)
 
 
-![admin-loggedin](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/340a9130-2cce-4b0c-b3e1-5b4b80fb201e)
+![admin-loggedin](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/7eb2f437-24e6-4a91-9918-f55a1c444346)
 
 
-![admin-loggedin1](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/a61b5165-60cc-44f3-89bd-f60a52784b15)
+![table](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/42284346-b788-47a9-9fc3-09690d4203fe)
 
-
-![table](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/282794c1-239f-4994-8b81-b333a9d57b6c)
 
 
 ![table1](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/72e09a5f-2c57-4fc3-809f-a99b7ccefbe6)
