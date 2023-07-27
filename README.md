@@ -6,7 +6,7 @@ After importing this repo, do `npm run dev` in root terminal in order to run the
 ![home](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/55d9b1fc-14ef-44e6-9fc8-dbaa7ae5118b)
 
 
-### After reading the context if anyone wishes to volunteer can go to the registration form through the `Apply Now` button even if the user goes to login page they will have an option there as well 
+### After reading the context if anyone wishes to volunteer can go to the registration form through the `Apply Now` button, even if the user goes to login page they will have an option there as well 
 ### The Registration and Login Pages respectively
 
 ![register](https://github.com/vinnu9112/vinayak-tfi-pre-work-repo/assets/111413210/b8d55ebd-160a-4d9f-8694-32f7cf4b11fc)
