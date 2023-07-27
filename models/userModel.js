@@ -41,6 +41,4 @@ const userSchema = new mongoose.Schema({
     },
 })
 
-export default mongoose.model("volunteers", userSchema) 
-
-// name, email, password, phone, location, languages, availability, answer, role
+export default mongoose.model("users", userSchema) 
