@@ -29,10 +29,14 @@ const Header = () => {
                                 <NavLink className="nav-link" to="/login">Login</NavLink>
                             </li> : (
                                 <>
-                                    <li className="nav-item">
-                                        <NavLink className="nav-link" to={`/dashboard/${auth?.user?.role === 1 ? 'admin' : 'info'}`} >{auth?.user?.role !== 1 ? `Dashboard` : `Volunteer List`}</NavLink>
-                                    </li>
-                                    <li className="nav-item">
+                                     <li className="nav-item">
+                                        <NavLink className="nav-link" to={`/dashboard/info`} >Info</NavLink>
+                                    </li>: <></>
+                                    
+                                    {auth.user.role === 1 ? <li className="nav-item">
+                                        <NavLink className="nav-link" to={`/dashboard/admin`}>VolunteerList</NavLink>
+                                    </li>:<></>}
+                                    <li className="nav-item" style={auth.user.role===0 ? {marginLeft: "590%"}: {marginLeft:"320%"}}>
                                         <NavLink className="nav-link" to="/login" onClick={handleLogOut}>Logout</NavLink>
                                     </li>
                                 </>

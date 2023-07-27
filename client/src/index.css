@@ -3,10 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
-
+body {
   background-color: #fdfbf9;
 }
+
 .register{
   display: flex;
   align-items: center;

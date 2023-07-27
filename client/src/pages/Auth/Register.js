@@ -3,7 +3,6 @@ import citiesData from '../../json/cities.json';
 import Layout from '../../components/Layout';
 import { toast } from 'react-hot-toast';
 import axios from 'axios';
-import { useNavigate } from 'react-router-dom';
 
 const Register = () => {
   const [name, setName] = useState('');
@@ -15,7 +14,6 @@ const Register = () => {
   const [languages, setLanguages] = useState('');
   const [availability, setAvailability] = useState('');
   const [answer, setAnswer] = useState('');
-  const navigate = useNavigate();
 
   useEffect(() => {
     setCities(citiesData)
